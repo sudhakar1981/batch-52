@@ -5,7 +5,7 @@ main()
 {
 	int a, b,c,d;
 	
-	a=10;
+	a=30;
 	b=20;
 	c=a+b;
 	
