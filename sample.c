@@ -16,5 +16,6 @@ main()
 	printf("the substraction of two number is = %d",e);
 	printf("the multiplication of two numbers is = %d",f);
 	printf("the division of two numbes is = %d",g);
+	printf(" program completed.........");
 getchc();
 }
