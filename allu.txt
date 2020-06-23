@@ -3,3 +3,5 @@ void main()
 {
 printf
 }
+
+test for merge and merge conflicts resolution.
