@@ -4,7 +4,7 @@
 
 main()
 {
-	int a, b,c,d,e,g,f;
+	int a, b,c,d,e,g,f,i;
 	
 	a=30;
 	b=20;
