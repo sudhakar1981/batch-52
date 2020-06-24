@@ -4,7 +4,7 @@
 
 main()
 {
-	int a, b,c,d,e,g,f,i;
+	int a, b,c,d,e,g,f,i,j;
 	clrscr();
 	
 	a=30;
