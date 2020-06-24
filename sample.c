@@ -5,6 +5,7 @@
 main()
 {
 	int a, b,c,d,e,g,f,i;
+	clrscr();
 	
 	a=30;
 	b=20;
